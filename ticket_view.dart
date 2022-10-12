@@ -6,7 +6,7 @@ import 'package:ticket_book/widgets/circular_container.dart';
 
 class TicketView extends StatelessWidget {
   const TicketView({Key? key}) : super(key: key);
-//2;10
+
   @override
   Widget build(BuildContext context) {
     final size = AppLayout.getSize(context);

@@ -6,7 +6,7 @@ import 'package:ticket_book/utils/app_styles.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({Key? key}) : super(key: key);
-  @override
+  
   @override
   Widget build(BuildContext context) {
     return Scaffold(
